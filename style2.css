@@ -1,0 +1,14 @@
+main {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+img {
+    max-width: 100%;
+}
+
+main ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
